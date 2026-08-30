@@ -1,0 +1,13 @@
+error_log
+*.log
+.DS_Store
+*.bak
+*.tmp
+screenshot.png
+screenshot.webp
+.env
+.env.*
+assets/style/fonts/*.eot
+assets/style/fonts/*.ttf
+assets/style/fonts/*.woff
+assets/style/fonts/*.woff2

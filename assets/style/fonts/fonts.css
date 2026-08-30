@@ -1,0 +1,49 @@
+@font-face {
+    font-family: 'Oswald';
+    src: url('Oswald-BoldItalic.eot');
+    src: url('Oswald-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('Oswald-BoldItalic.woff') format('woff'),
+        url('Oswald-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'United Sans Rg Bd';
+    src: url('UnitedSansReg-Bold.eot');
+    src: url('UnitedSansReg-Bold.eot?#iefix') format('embedded-opentype'),
+        url('UnitedSansReg-Bold.woff') format('woff'),
+        url('UnitedSansReg-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'United Sans Rg Lt';
+    src: url('UnitedSansReg-Light.eot');
+    src: url('UnitedSansReg-Light.eot?#iefix') format('embedded-opentype'),
+        url('UnitedSansReg-Light.woff') format('woff'),
+        url('UnitedSansReg-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Arnhem';
+    src: url('Arnhem-BoldItalic.eot');
+    src: url('Arnhem-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('Arnhem-BoldItalic.woff') format('woff'),
+        url('Arnhem-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Axiforma';
+    src: url('Axiforma-Bold.eot');
+    src: url('Axiforma-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Axiforma-Bold.woff') format('woff'),
+        url('Axiforma-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
